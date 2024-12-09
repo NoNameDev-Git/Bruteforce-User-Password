@@ -173,7 +173,7 @@ begin
     StartThreads(StrToInt(Edit2.Text));
   except
     on E: Exception do
-      Writeln('Error starting threads: ' + E.Message);
+      ShowMessage('Error starting threads: ' + E.Message);
   end;
 end;
 
