@@ -1,5 +1,5 @@
 ### YouTube Video
-[![video](https://imgur.com/a/tbmcZh1.jpg)](https://youtu.be/gseVhYDA_ZQ?si=PF5dNrcaK6uQZ41P)
+[![video](https://imgur.com/a/tbmcZh1.jpeg)](https://youtu.be/gseVhYDA_ZQ?si=PF5dNrcaK6uQZ41P)
 
 # Brute force of user password Rad Studio
 Brute force is a multi-threaded brute-force software designed to recover a user's password.
