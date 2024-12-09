@@ -26,6 +26,7 @@ Please read through the project first to get an idea of how the program is struc
 ### Donation
 ##### Buy me a coffee!
 BTC: bc1q03026zqjka7ptwu0adfnt0y9y9krmwx8tkpx5k
+
 USDT(TRC20): TDbfAFj4MX1w9J5fmF3P1wCpweobm4d4Nx
 
 ### LEGAL DISCLAIMER PLEASE READ!
