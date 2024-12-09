@@ -2,7 +2,7 @@
 [![video](https://i.postimg.cc/tCbZ8YJt/sddefault.jpg)](https://youtu.be/gseVhYDA_ZQ?si=PF5dNrcaK6uQZ41P)
 
 # Brute force of user password Rad Studio
-Brute force is a multi-threaded brute-force software designed to recover a user's password.
+Is a multi-threaded brute-force software designed to recover a user's password.
 
 ### Installation & Deployment of the development environment
 Native Apps For Any Device From One Codebase [Embarcadero Rad Studio](https://www.embarcadero.com/ru/products/rad-studio)
