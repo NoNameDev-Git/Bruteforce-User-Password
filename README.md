@@ -1,6 +1,3 @@
-### YouTube Video
-[![video](https://i.postimg.cc/tCbZ8YJt/sddefault.jpg)](https://youtu.be/gseVhYDA_ZQ?si=PF5dNrcaK6uQZ41P)
-
 # Brute force of user password Rad Studio
 Is a multi-threaded brute-force software designed to recover a user's password.
 
@@ -8,6 +5,8 @@ Is a multi-threaded brute-force software designed to recover a user's password.
 
 ![Logo](https://i.postimg.cc/ydLCHr9Z/12323.png)
 
+### YouTube Video
+[![video](https://i.postimg.cc/tCbZ8YJt/sddefault.jpg)](https://youtu.be/gseVhYDA_ZQ?si=PF5dNrcaK6uQZ41P)
 
 ### Installation & Deployment of the development environment
 Native Apps For Any Device From One Codebase [Embarcadero Rad Studio](https://www.embarcadero.com/ru/products/rad-studio)
