@@ -1,8 +1,6 @@
 ### Logo
 
-<p align="center">
-  <img src="https://i.postimg.cc/ydLCHr9Z/12323.png" alt="Logo">
-</p>
+![Logo](https://i.postimg.cc/ydLCHr9Z/12323.png)
 
 ### YouTube Video
 [![video](https://i.postimg.cc/tCbZ8YJt/sddefault.jpg)](https://youtu.be/gseVhYDA_ZQ?si=PF5dNrcaK6uQZ41P)
