@@ -1,4 +1,4 @@
-### Logo
+### Image
 
 ![Logo](https://i.postimg.cc/ydLCHr9Z/12323.png)
 
